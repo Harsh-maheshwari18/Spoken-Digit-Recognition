@@ -1,0 +1,8 @@
+*.pth
+*.pt
+*.wav
+train_audio/
+test_audio/
+submission*.csv
+.ipynb_checkpoints/
+__pycache__/
